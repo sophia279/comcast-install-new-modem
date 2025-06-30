@@ -32,7 +32,7 @@ Steps for Comcast Install New Modem
 
 Once you've decided that you need a new modem, the next step is the installation process. Here's a step-by-step guide to help you through the entire process.
 
-### 1. **Unbox the New Modem**
+1. **Unbox the New Modem**
 
 Once you’ve obtained your new modem from Comcast, carefully unbox it. Inside, you should find:
 
@@ -41,7 +41,7 @@ Once you’ve obtained your new modem from Comcast, carefully unbox it. Inside, 
 - Ethernet cable
 - Coaxial cable (for connecting to the wall jack)
 
-### 2. **Disconnect the Old Modem**
+2. **Disconnect the Old Modem**
 
 Before installing your new modem, you need to disconnect your current device. Here’s how:
 
@@ -49,7 +49,7 @@ Before installing your new modem, you need to disconnect your current device. He
 2. Disconnect the coaxial cable that runs from the modem to the wall outlet.
 3. Remove any Ethernet cables connected from the modem to your router or devices.
 
-### 3. **Connect the New Modem**
+3. **Connect the New Modem**
 
 Now it’s time to install your new modem from Comcast. Follow these steps to ensure everything is set up properly.
 
@@ -61,7 +61,7 @@ Now it’s time to install your new modem from Comcast. Follow these steps to en
 
 4. **Wi-Fi Setup (if applicable):** If your new modem has built-in Wi-Fi functionality, you may need to set up your wireless network. This often involves accessing the modem’s web interface through a browser and following the prompts to configure your Wi-Fi settings.
 
-### 4. **Activation of the New Modem**
+4. **Activation of the New Modem**
 
 After the hardware is connected, the next step is activating your new Comcast install modem. Activation is necessary to link the modem with Comcast’s network. There are two ways to activate your modem:
 
@@ -71,7 +71,7 @@ After the hardware is connected, the next step is activating your new Comcast in
 
 Regardless of which method you choose, activation typically takes a few minutes. Your modem will automatically reboot when the activation process is completed successfully.
 
-### 5. **Test Your Connection**
+5. **Test Your Connection**
 
 After activation, it's time to test the modem. Open a web browser or attempt to stream content on a device to check for any interruptions or slow speeds. If everything is working correctly, you should be good to go!
 
@@ -82,11 +82,11 @@ Troubleshooting Common Issues with Comcast Install New Modem
 
 While most installations go smoothly, there can be a few hiccups. Here are some common problems and how to resolve them:
 
-### 1. **Modem Not Powering On**
+1. **Modem Not Powering On**
 
 If your modem does not power on after connecting it to the power source, first ensure that the power cord is securely plugged into both the modem and the outlet. If it’s still not working, try a different power outlet. If the modem is still unresponsive, there may be an issue with the device, and you might need to contact Comcast for a replacement.
 
-### 2. **No Internet Connection After Activation**
+2. **No Internet Connection After Activation**
 
 If you have completed the activation steps but still have no internet connection, follow these troubleshooting steps:
 
@@ -96,7 +96,7 @@ If you have completed the activation steps but still have no internet connection
   
 If the issue persists, consider resetting the modem by pressing the reset button on the back of the device.
 
-### 3. **Slow Internet Speeds**
+3. **Slow Internet Speeds**
 
 If your internet connection is slow despite having a new modem, here are some potential causes:
 
